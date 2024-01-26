@@ -1,4 +1,4 @@
-I have written this code with Internet support.
+
 To Run this project first create "uploads" folder in project out side,that folder stored the uploading files.
 Registed user only allowed goes to the file uploading page. 
 I have create User Table Store user information and encrypted passwords.
